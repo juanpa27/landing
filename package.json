@@ -1,0 +1,23 @@
+{
+  "name": "landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanpa27/landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanpa27/landing/issues"
+  },
+  "homepage": "https://github.com/juanpa27/landing#readme",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
