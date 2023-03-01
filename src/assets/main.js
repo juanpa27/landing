@@ -28,7 +28,6 @@ async function fetchData(urlApi) {
         let view = `
         ${characters.results.map(character => `
        
-
         <div class="max-w-sm rounded overflow-hidden shadow-lg">
             <img class="w-full" src="${character.image}" alt="Sunset in the mountains">
             <div class="px-6 py-4">
